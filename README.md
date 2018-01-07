@@ -5,7 +5,7 @@ I am study multi-thread. I found Adam Heinrich tutorial
 https://www.adamheinrich.com/blog/2016/07/context-switch-on-the-arm-cortex-m0/
 
 I am much obliged to Adam Heinrich for his example.
-However,his example is coded in GCC and I don't know how to debug in with GDB.
+However,his example is coded in GCC and I don't know how to debug with GDB.
 It will be easier debugging with IAR.
 
 =>  I ported this example to IAR for ARM (Version 8.0).
