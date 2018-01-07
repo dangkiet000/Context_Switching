@@ -1,3 +1,21 @@
+# IAR Settings  
+**/settings/*.*
+
+# IAR Debug Exe  
+**/Exe/*.*
+
+# IAR Debug List  
+**/List/*.*
+
+# IAR Debug Obj  
+**/Obj/*.pbd  
+**/Obj/*.pbd.*  
+**/Obj/*.pbi  
+**/Obj/*.pbi.*  
+
+
+
+
 # Object files
 *.o
 *.ko
